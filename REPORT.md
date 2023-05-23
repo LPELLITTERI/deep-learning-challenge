@@ -30,4 +30,4 @@
 
 ### Summary
 
- The model achieved a reasonable accuracy, there is room for improvement. To further improve the model's performance, additional steps can be taken, such as gathering more data, preprocessing the data more effectively, and training the model on different sections of the data. These actions can potentially enhance the model's ability to generalize and make more accurate predictions. Continuous exploration and experimentation are key to refining the model and achieving better results.
+ #### The model achieved a reasonable accuracy, there is room for improvement. To further improve the model's performance, additional steps can be taken, such as gathering more data, preprocessing the data more effectively, and training the model on different sections of the data. These actions can potentially enhance the model's ability to generalize and make more accurate predictions. Continuous exploration and experimentation are key to refining the model and achieving better results.
